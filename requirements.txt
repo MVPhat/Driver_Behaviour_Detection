@@ -1,6 +1,7 @@
 opencv-python
 numpy
 tqdm
+Pillow
 torch
 torchvision
 matplotlib
