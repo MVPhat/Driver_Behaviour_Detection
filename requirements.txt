@@ -7,3 +7,4 @@ matplotlib
 ultralytics
 anvil-uplink
 ffmpeg-python
+roboflow
