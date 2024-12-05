@@ -1,0 +1,9 @@
+opencv-python
+numpy
+tqdm
+torch
+torchvision
+matplotlib
+ultralytics
+anvil-uplink
+ffmpeg-python
