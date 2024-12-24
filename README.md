@@ -20,11 +20,13 @@ python ./utils/download_dataset.py
 
 I also provided the <a href="./utils/visualize.py">visualize.py</a> in utils to get randomly some samples to demonstrate the annotation.
 
-Run the python file to show examples:
+Configure your path to images and labels folders then run the python file to show examples:
 
-```bash
+```
 python ./utils/visualize.py
 ```
+
+<img src="./imgs/vis.jpg"/>
 
 ### Training
 
@@ -59,4 +61,5 @@ server_XXXXX...
 anvil.server.connect("server_XXXXX...")
 ```
 
+- Ensure the path to weights of your model.
 - Press "Run All" to start the session.
