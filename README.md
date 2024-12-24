@@ -34,7 +34,20 @@ Since the training script is strictly followed by Ultralytics instructions, visi
 
 ### Performance
 
-### Inference
+<img src="./imgs/confusion_matrix.png"/>
+<div style="display: flex;">
+    <img src="./imgs/P_curve.png"/>
+    <img src="./imgs/R_curve.png"/>
+</div>
+
+<div style="display: flex;">
+    <img src="./imgs/F1_curve.png"/>
+    <img src="./imgs/PR_curve.png"/>
+</div>
+<div style="display: flex;">
+    <img src="./imgs/val_batch1_pred.jpg"/>
+    <img src="./imgs/val_batch2_pred.jpg"/>
+</div>
 
 ### Demo
 
