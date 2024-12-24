@@ -36,4 +36,19 @@ Since the training script is strictly followed by Ultralytics instructions, visi
 
 ### Demo
 
-### References
+After completed training, you can deploy the best model as a web-based via <a href="https://anvil.works/">Anvil</a> platform.
+
+Since Anvil's architecture is client-server, you should configure both side.
+
+Client-side:
+
+- Create a blank workspace in Anvil
+- Upload the UI code in <a href="./demo/Driver Anomal Behaviour Detection.yaml">Driver Anomal Behaviour Detection.yaml</a> into the Anvil web.
+
+Server-side:
+
+- Create an up-link to connect your app to existing code. The up-link code should be:
+
+```
+server_XXXXX...
+```
