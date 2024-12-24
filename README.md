@@ -2,6 +2,10 @@
 
 ### Introduction
 
+Driver behavior detection is a critical application in intelligent transportation systems aimed at enhancing road safety and minimizing accidents caused by risky driving practices.
+
+Using newest YOLO version - YOLOv11, a state-of-the-art object detection model, this approach leverages real-time capabilities to identify and classify driver behaviors such as distraction, drowsiness, eating, smoking, and seatbelt.
+
 ### Prepare Dataset
 
 I used the dataset on Roboflow, if you would like to use your custom dataset, you can skip this instruction.
