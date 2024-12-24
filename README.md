@@ -52,3 +52,11 @@ Server-side:
 ```
 server_XXXXX...
 ```
+
+- Open <a href="./demo/demo.ipynb">demo.ipynb</a> notebook and paste your up-link code in:
+
+```
+anvil.server.connect("server_XXXXX...")
+```
+
+- Press "Run All" to start the session.
